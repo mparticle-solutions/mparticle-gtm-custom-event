@@ -1,5 +1,5 @@
 homepage: "https://www.mparticle.com"
-documentation: "https://docs.mparticle.com/developers/"
+documentation: "https://docs.mparticle.com/developers/sdk/web/event-tracking/#custom-events"
 versions:
   - sha: 92569736faf55f6932f9a4b0d2f6eb78fa8b9eb5
     changeNotes: Initial Release
